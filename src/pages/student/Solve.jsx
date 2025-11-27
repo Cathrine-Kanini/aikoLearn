@@ -3,7 +3,7 @@ import { Calculator, CheckCircle } from 'lucide-react';
 import { api } from '../../config/api';
 import Card from '../../components/common/Card';
 import Button from '../../components/common/Button';
-import Textarea from '../../components/common/Textarea';
+import Textarea from '../../components/common/TextArea.js';
 import Select from '../../components/common/Select';
 import Alert from '../../components/common/Alert';
 import Loading from '../../components/common/Loading';
